@@ -1,0 +1,73 @@
+.Box1{
+    position:absolute;
+    top:25px;
+    left:20px;
+    background:grey;
+    border: 1px solid;
+    width:200px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box2{
+    position:absolute;
+    top:25px;
+    left:20px;
+    background:grey;
+    border: 1px solid;
+    width:200px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box3{
+    position:absolute;
+    top:25px;
+    left:20px;
+    background:grey;
+    border: 1px solid;
+    width:200px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box4{
+    position:absolute;
+    top:25px;
+    left:20px;
+    background:grey;
+    border: 1px solid;
+    width:200px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box5{
+    position:absolute;
+    top:25px;
+    left:20px;
+    background:grey;
+    border: 1px solid;
+    width:200px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box6{
+    position:absolute;
+    top:25px;
+    left:20px;
+    background:grey;
+    border: 1px solid;
+    width:200px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
