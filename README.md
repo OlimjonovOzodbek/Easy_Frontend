@@ -1,1 +1,1 @@
-# Easy_Frontend
+Ustoz vazifa tayyor bolyapti, ozgina kutib turing iltimos
