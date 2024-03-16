@@ -1,1 +1,1 @@
-Ustoz vazifa tayyor bolyapti, ozgina kutib turing iltimos
+Ustoz endi 100 dan 100 qoymasangiz uyat bo'lar😁
